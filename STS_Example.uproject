@@ -1,13 +1,13 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.26",
+	"EngineAssociation": "4.27",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
 		{
 			"Name": "AwsSTS",
 			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/"
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ba1bdbad8aad44aab216e1b24b670b9e"
 		}
 	]
 }
